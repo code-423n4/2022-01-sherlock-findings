@@ -1,0 +1,9 @@
+{
+  "contest": "Sherlock contest",
+  "handle": "static",
+  "address": "0x2e847aae43c2d08bce43195dee62ab7cb63c7451",
+  "risk": "3",
+  "title": "Possible Re-entrancy in _sendSherRewardsToOwner",
+  "issueId": 1,
+  "issueUrl": "https://github.com/code-423n4/2022-01-sherlock-findings/issues/1"
+}
