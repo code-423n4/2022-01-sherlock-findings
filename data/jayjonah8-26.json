@@ -1,0 +1,9 @@
+{
+  "contest": "Sherlock contest",
+  "handle": "jayjonah8",
+  "address": "0x75aAfefc48D23C65F49603491630308DcBd468f5",
+  "risk": "2",
+  "title": "No validation to make sure usdc address is correct before setting max approval ",
+  "issueId": 26,
+  "issueUrl": "https://github.com/code-423n4/2022-01-sherlock-findings/issues/26"
+}
