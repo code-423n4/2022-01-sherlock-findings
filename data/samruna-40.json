@@ -1,0 +1,9 @@
+{
+  "contest": "Sherlock contest",
+  "handle": "samruna",
+  "address": "0xB2cb56c049Ea868C3A22B0a6a47AA6608372eD3E",
+  "risk": "2",
+  "title": "transferTokenOut does not restrict withdraw to requested amount of token",
+  "issueId": 40,
+  "issueUrl": "https://github.com/code-423n4/2022-01-sherlock-findings/issues/40"
+}
