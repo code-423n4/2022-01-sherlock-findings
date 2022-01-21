@@ -1,0 +1,9 @@
+{
+  "contest": "Sherlock contest",
+  "handle": "cryptphi",
+  "address": "0x0DF54150a3E76f559f7699E343cf9D9FF0Cc043f",
+  "risk": "3",
+  "title": "Hardcoded seed phrase in  sherlock-v2-core repo",
+  "issueId": 43,
+  "issueUrl": "https://github.com/code-423n4/2022-01-sherlock-findings/issues/43"
+}
