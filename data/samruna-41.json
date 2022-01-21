@@ -1,0 +1,9 @@
+{
+  "contest": "Sherlock contest",
+  "handle": "samruna",
+  "address": "0xB2cb56c049Ea868C3A22B0a6a47AA6608372eD3E",
+  "risk": "1",
+  "title": "StackingPeriod can exhaust gas limit",
+  "issueId": 41,
+  "issueUrl": "https://github.com/code-423n4/2022-01-sherlock-findings/issues/41"
+}
