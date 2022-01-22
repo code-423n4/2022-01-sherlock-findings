@@ -1,0 +1,9 @@
+{
+  "contest": "Sherlock contest",
+  "handle": "bobi",
+  "address": "0x8f24b7bee60c5421101e2e596b1008522368920f",
+  "risk": "G",
+  "title": "Function call can be done after required check.",
+  "issueId": 54,
+  "issueUrl": "https://github.com/code-423n4/2022-01-sherlock-findings/issues/54"
+}
