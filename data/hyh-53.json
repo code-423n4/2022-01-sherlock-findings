@@ -1,0 +1,9 @@
+{
+  "contest": "Sherlock contest",
+  "handle": "hyh",
+  "address": "0x8efe50a4b8c8b64fdc93a5b1712fd735d8223cd5",
+  "risk": "1",
+  "title": "addressShares introduction made further shares accounting error prone",
+  "issueId": 53,
+  "issueUrl": "https://github.com/code-423n4/2022-01-sherlock-findings/issues/53"
+}
