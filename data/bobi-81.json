@@ -1,0 +1,9 @@
+{
+  "contest": "Sherlock contest",
+  "handle": "bobi",
+  "address": "0x8F24B7bEe60c5421101e2e596b1008522368920F",
+  "risk": "1",
+  "title": "Usage of deprecated SafeERC20's`safeApprove` .",
+  "issueId": 81,
+  "issueUrl": "https://github.com/code-423n4/2022-01-sherlock-findings/issues/81"
+}
