@@ -1,0 +1,9 @@
+{
+  "contest": "Sherlock contest",
+  "handle": "ych18",
+  "address": "0x02435fb305D2BBA609E044279C50498Abe279380",
+  "risk": "0",
+  "title": "Code not following Best practices",
+  "issueId": 75,
+  "issueUrl": "https://github.com/code-423n4/2022-01-sherlock-findings/issues/75"
+}
