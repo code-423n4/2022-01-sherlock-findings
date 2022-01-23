@@ -1,0 +1,9 @@
+{
+  "contest": "Sherlock contest",
+  "handle": "RamiRond",
+  "address": "0xC814c6E5863bf4e3702Fc97D0c08eF3eC3c4e573",
+  "risk": "G",
+  "title": "Use return value of assignments to save gas",
+  "issueId": 78,
+  "issueUrl": "https://github.com/code-423n4/2022-01-sherlock-findings/issues/78"
+}
