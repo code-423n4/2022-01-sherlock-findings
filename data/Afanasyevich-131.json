@@ -1,0 +1,9 @@
+{
+  "contest": "Sherlock contest",
+  "handle": "Afanasyevich",
+  "address": "0x728dC35758C79c54389ddf5Da1D6Eb55a502f698",
+  "risk": "G",
+  "title": "Unnecessary modifier in SherlockProtocolManager contract",
+  "issueId": 131,
+  "issueUrl": "https://github.com/code-423n4/2022-01-sherlock-findings/issues/131"
+}
