@@ -1,0 +1,9 @@
+{
+  "contest": "Sherlock contest",
+  "handle": "hyh",
+  "address": "0x8efE50a4b8c8B64FDC93a5b1712Fd735d8223cD5",
+  "risk": "1",
+  "title": "yieldStrategyDeposit doesn't check that there is enough USDC to deposit",
+  "issueId": 141,
+  "issueUrl": "https://github.com/code-423n4/2022-01-sherlock-findings/issues/141"
+}
