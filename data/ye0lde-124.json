@@ -1,0 +1,9 @@
+{
+  "contest": "Sherlock contest",
+  "handle": "ye0lde",
+  "address": "0x81D4cf8A3892557e4a1571e97b88f0351eF0dcFD",
+  "risk": "G",
+  "title": "Function _isCleanupState (SherlockClaimManager.sol) can be refactored for efficiency and clarity",
+  "issueId": 124,
+  "issueUrl": "https://github.com/code-423n4/2022-01-sherlock-findings/issues/124"
+}
