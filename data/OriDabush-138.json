@@ -1,0 +1,9 @@
+{
+  "contest": "Sherlock contest",
+  "handle": "OriDabush",
+  "address": "0x4bCc7c54E4e8E9a563B92272A51bBFb5d233de32",
+  "risk": "G",
+  "title": "saving length of an array before the loop to save gas",
+  "issueId": 138,
+  "issueUrl": "https://github.com/code-423n4/2022-01-sherlock-findings/issues/138"
+}
