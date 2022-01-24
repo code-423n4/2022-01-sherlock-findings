@@ -1,0 +1,9 @@
+{
+  "contest": "Sherlock contest",
+  "handle": "Funen",
+  "address": "0x1b4Cad2Cb2AD1B4dF797AaCf046576A8d75AcD45",
+  "risk": "G",
+  "title": "using ++i for saving more gas",
+  "issueId": 133,
+  "issueUrl": "https://github.com/code-423n4/2022-01-sherlock-findings/issues/133"
+}
