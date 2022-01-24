@@ -1,0 +1,9 @@
+{
+  "contest": "Sherlock contest",
+  "handle": "GeekyLumberjack",
+  "address": "0xC63E80f0094aE02CD5C12d121336b41420a27dd2",
+  "risk": "G",
+  "title": "Unneeded reassignment of totalStakeShares",
+  "issueId": 98,
+  "issueUrl": "https://github.com/code-423n4/2022-01-sherlock-findings/issues/98"
+}
