@@ -1,0 +1,9 @@
+{
+  "contest": "Sherlock contest",
+  "handle": "ACai",
+  "address": "0xa8881ede6ae1404e62f20bb4aa89e5b1a7e1efd8",
+  "risk": "1",
+  "title": "There is a deviation in the parameter value setting.",
+  "issueId": 174,
+  "issueUrl": "https://github.com/code-423n4/2022-01-sherlock-findings/issues/174"
+}
