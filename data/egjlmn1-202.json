@@ -1,0 +1,9 @@
+{
+  "contest": "Sherlock contest",
+  "handle": "egjlmn1",
+  "address": "0xD0B90DEE950195A846ec7d9F7ebC7f45CEc7B9cC",
+  "risk": "1",
+  "title": "Lack of precision in `allPremiumsPerSecToStakers` may cause reward denying",
+  "issueId": 202,
+  "issueUrl": "https://github.com/code-423n4/2022-01-sherlock-findings/issues/202"
+}
