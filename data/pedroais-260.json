@@ -1,0 +1,9 @@
+{
+  "contest": "Sherlock contest",
+  "handle": "pedroais",
+  "address": "0x7b13eB3F49525DcF09c01DbBbd34Af8a4C8C83B5",
+  "risk": "1",
+  "title": "Staking period required to buy sher tokens can be disabled",
+  "issueId": 260,
+  "issueUrl": "https://github.com/code-423n4/2022-01-sherlock-findings/issues/260"
+}
