@@ -1,0 +1,9 @@
+{
+  "contest": "Sherlock contest",
+  "handle": "GreyArt",
+  "address": "0x07f0571566E4b07eA825798A70Fd67fE79077f4E",
+  "risk": "1",
+  "title": "SherBuy: Verify SHERClaim’s SHER token is equal to that of SherlockPosition’s",
+  "issueId": 224,
+  "issueUrl": "https://github.com/code-423n4/2022-01-sherlock-findings/issues/224"
+}
