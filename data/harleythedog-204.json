@@ -1,0 +1,9 @@
+{
+  "contest": "Sherlock contest",
+  "handle": "harleythedog",
+  "address": "0xB958d9FA0417E116F446D0A06D0326805Ad73Bd5",
+  "risk": "2",
+  "title": "Users shouldn't be forced into a specific strategy (possible rug pull)",
+  "issueId": 204,
+  "issueUrl": "https://github.com/code-423n4/2022-01-sherlock-findings/issues/204"
+}
