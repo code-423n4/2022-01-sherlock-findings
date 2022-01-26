@@ -1,0 +1,9 @@
+{
+  "contest": "Sherlock contest",
+  "handle": "ych18",
+  "address": "0x02435fb305D2BBA609E044279C50498Abe279380",
+  "risk": "2",
+  "title": "Updating Manager contract could destruct Sherlock core functionalities   ",
+  "issueId": 201,
+  "issueUrl": "https://github.com/code-423n4/2022-01-sherlock-findings/issues/201"
+}
