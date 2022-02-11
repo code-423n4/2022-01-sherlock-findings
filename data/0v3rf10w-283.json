@@ -1,9 +1,0 @@
-{
-  "contest": 76,
-  "handle": "0v3rf10w",
-  "address": "0x4Dd980Ae601dB0a0856F3B7ABd6DD155Efa67b9D",
-  "risk": "3",
-  "title": "Reentrancy",
-  "issueId": 283,
-  "issueUrl": "https://github.com/code-423n4/2022-01-sherlock-findings/issues/283"
-}
